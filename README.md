@@ -1,4 +1,4 @@
-    # Task List
+# Task List
 
 Add to-do tasks, mark them, and delete them when completed.
 
